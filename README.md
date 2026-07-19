@@ -1,4 +1,3 @@
-# metodos-cuantitativos-python
 # 📊 Métodos Cuantitativos con Python
 
 Repositorio destinado al desarrollo de ejercicios y proyectos del curso de Métodos Cuantitativos utilizando Python y Google Colab.
