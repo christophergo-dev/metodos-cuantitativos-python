@@ -43,3 +43,8 @@ metodos-cuantitativos-python/
 **Laptop Price Prediction Dataset**
 
 https://www.kaggle.com/datasets/jacksondivakarr/laptop-price-prediction-dataset
+
+
+## Vista previa
+
+![Histograma del precio](images/histograma_precios.png)
