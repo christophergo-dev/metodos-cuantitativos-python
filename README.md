@@ -2,6 +2,10 @@
 
 Repositorio destinado al desarrollo de ejercicios y proyectos del curso de Métodos Cuantitativos utilizando Python y Google Colab.
 
+## 🎯 Objetivo
+
+Aplicar técnicas de análisis estadístico utilizando Python sobre conjuntos de datos reales, desarrollando notebooks reproducibles que sirvan como material de estudio y portafolio personal.
+
 ## 📁 Estructura del repositorio
 
 ```
@@ -48,3 +52,13 @@ https://www.kaggle.com/datasets/jacksondivakarr/laptop-price-prediction-dataset
 ## Vista previa
 
 ![Histograma del precio](images/histograma_precios.png)
+
+
+## 🚀 Estado del repositorio
+
+- ✅ 01. Estadística Descriptiva
+- ⏳ 02. Probabilidad
+- ⏳ 03. Variables Aleatorias
+- ⏳ 04. Distribuciones de Probabilidad
+- ⏳ 05. Inferencia Estadística
+- ⏳ 06. Regresión
